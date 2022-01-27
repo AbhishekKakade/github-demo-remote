@@ -16,3 +16,5 @@ def divide(x,y):        #on master
         return divide_by_zero_error
     else 
         return x/y
+def cube(x):            #on bug456
+    return x*x*x
